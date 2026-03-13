@@ -1,0 +1,12 @@
+{
+  "name": "pft-x",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
